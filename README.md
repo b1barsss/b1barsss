@@ -1,14 +1,35 @@
 # Hi 👋, I'm Utepov Bibarys!
 
-## A passionate backend developer from :kazakhstan:Kazakhstan:kazakhstan:
+## I am a backend developer from :kazakhstan:Kazakhstan:kazakhstan:
 
-### Main languages:
-- PHP
+### Languages:
+- PHP 
 - Go
+- SQL
 - JavaScript
-- HTML/CSS
+- familiar with Pyhon, Java 
 
-### Tools
+### Techs and Tools:
+- Server (nginx, Roadrunner)
+- PHP frameworks (Laravel, Spiral)
+- Go frameworks (gin)
+- SQL (MySQL, MariaDB, PostgreSQL)
+- JavaScript (jQuery)
+- HTML/CSS (Bootstrap 5, Tailwind)
+- REST API
+- Current OS - Linux Ubuntu 22.04
+- Docker
+- Elasticsearch
+- Git (Gitflow)
+- PHPStorm
+- GoLand
+- VSCode
+- Postman
+- PowerShell / Bash commands
+- Swagger
+
+
+
 <!-- <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
