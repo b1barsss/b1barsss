@@ -1,9 +1,12 @@
 # Hi 👋, I'm Utepov Bibarys from Kazakhstan!
 
-# I'm a backend developer with a passion for web development, particularly using :elephant: PHP/Go:
+### I'm a backend developer with a passion for web development, particularly using:
+
+- PHP
+- Go
 
 <!-- I have experience with:-->
-<!-- Feel free to check out my projects and get in touch!-->
+Feel free to check out my projects and get in touch!
 
 <!--
 **b1barsss/b1barsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
