@@ -2,8 +2,6 @@
 
 # I'm a backend developer with a passion for web development, particularly using :elephant: PHP/Go:
 
-<img src="https://github.com/ashleymcnamara/gophers/blob/master/DOCTOR_STRANGE_GOPHER.png" width="auto" height="auto">
-
 <!-- I have experience with:-->
 <!-- Feel free to check out my projects and get in touch!-->
 
