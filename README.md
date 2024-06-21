@@ -20,6 +20,7 @@
 - Current OS - Linux Ubuntu 22.04
 - Docker
 - Elasticsearch
+- Meilisearch
 - Git (Gitflow)
 - PHPStorm
 - GoLand
