@@ -1,6 +1,6 @@
 # Hi 👋, I'm Utepov Bibarys!
 
-## I am a backend developer from :kazakhstan:Kazakhstan:kazakhstan:
+## I am a backend developer from :kazakhstan: Kazakhstan :kazakhstan:
 
 ### Languages:
 - PHP 
